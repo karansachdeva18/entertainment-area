@@ -1,0 +1,1 @@
+export const IMGW300 = 'https://image.tmdb.org/t/p/w300/'
